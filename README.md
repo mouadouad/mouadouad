@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Mouad.
+
+I am a Java and Python developer, and I like to learn about new stuff. 
+
 <!--
 **mouadouad/mouadouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
